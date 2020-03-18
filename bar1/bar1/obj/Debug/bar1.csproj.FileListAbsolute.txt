@@ -1,0 +1,27 @@
+C:\Users\user\Desktop\bar1\bar1\bin\Debug\bar1.exe.config
+C:\Users\user\Desktop\bar1\bar1\bin\Debug\bar1.exe
+C:\Users\user\Desktop\bar1\bar1\bin\Debug\bar1.pdb
+C:\Users\user\Desktop\bar1\bar1\obj\Debug\bar1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\bar1\bar1\obj\Debug\bar1.Form1.resources
+C:\Users\user\Desktop\bar1\bar1\obj\Debug\bar1.Properties.Resources.resources
+C:\Users\user\Desktop\bar1\bar1\obj\Debug\bar1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\bar1\bar1\obj\Debug\bar1.exe
+C:\Users\user\Desktop\bar1\bar1\obj\Debug\bar1.pdb
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\bin\Debug\bar1.exe.config
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\bin\Debug\bar1.exe
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\bin\Debug\bar1.pdb
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\obj\Debug\bar1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\obj\Debug\bar1.Form1.resources
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\obj\Debug\bar1.Properties.Resources.resources
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\obj\Debug\bar1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\obj\Debug\bar1.exe
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\obj\Debug\bar1.pdb
+C:\Users\BİLAL\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\bin\Debug\bar1.exe.config
+C:\Users\BİLAL\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\bin\Debug\bar1.exe
+C:\Users\BİLAL\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\bin\Debug\bar1.pdb
+C:\Users\BİLAL\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\obj\Debug\bar1.csprojAssemblyReference.cache
+C:\Users\BİLAL\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\obj\Debug\bar1.Form1.resources
+C:\Users\BİLAL\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\obj\Debug\bar1.Properties.Resources.resources
+C:\Users\BİLAL\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\obj\Debug\bar1.csproj.GenerateResource.cache
+C:\Users\BİLAL\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\obj\Debug\bar1.exe
+C:\Users\BİLAL\Desktop\Asla Silme\Dersler\Programlama\C# Form App\bar1\bar1\obj\Debug\bar1.pdb

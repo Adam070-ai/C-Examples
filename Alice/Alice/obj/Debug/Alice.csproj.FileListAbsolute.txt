@@ -1,0 +1,27 @@
+C:\Users\aymes109\Desktop\Alice\Alice\bin\Debug\Alice.exe.config
+C:\Users\aymes109\Desktop\Alice\Alice\bin\Debug\Alice.exe
+C:\Users\aymes109\Desktop\Alice\Alice\bin\Debug\Alice.pdb
+C:\Users\aymes109\Desktop\Alice\Alice\obj\Debug\Alice.csprojAssemblyReference.cache
+C:\Users\aymes109\Desktop\Alice\Alice\obj\Debug\Alice.Form1.resources
+C:\Users\aymes109\Desktop\Alice\Alice\obj\Debug\Alice.Properties.Resources.resources
+C:\Users\aymes109\Desktop\Alice\Alice\obj\Debug\Alice.csproj.GenerateResource.cache
+C:\Users\aymes109\Desktop\Alice\Alice\obj\Debug\Alice.exe
+C:\Users\aymes109\Desktop\Alice\Alice\obj\Debug\Alice.pdb
+C:\Users\user\Desktop\Alice\Alice\bin\Debug\Alice.exe.config
+C:\Users\user\Desktop\Alice\Alice\bin\Debug\Alice.exe
+C:\Users\user\Desktop\Alice\Alice\bin\Debug\Alice.pdb
+C:\Users\user\Desktop\Alice\Alice\obj\Debug\Alice.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Alice\Alice\obj\Debug\Alice.Form1.resources
+C:\Users\user\Desktop\Alice\Alice\obj\Debug\Alice.Properties.Resources.resources
+C:\Users\user\Desktop\Alice\Alice\obj\Debug\Alice.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Alice\Alice\obj\Debug\Alice.exe
+C:\Users\user\Desktop\Alice\Alice\obj\Debug\Alice.pdb
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\Alice\Alice\bin\Debug\Alice.exe.config
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\Alice\Alice\bin\Debug\Alice.exe
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\Alice\Alice\bin\Debug\Alice.pdb
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\Alice\Alice\obj\Debug\Alice.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\Alice\Alice\obj\Debug\Alice.Form1.resources
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\Alice\Alice\obj\Debug\Alice.Properties.Resources.resources
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\Alice\Alice\obj\Debug\Alice.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\Alice\Alice\obj\Debug\Alice.exe
+C:\Users\user\Desktop\Asla Silme\Dersler\Programlama\C# Form App\Alice\Alice\obj\Debug\Alice.pdb
